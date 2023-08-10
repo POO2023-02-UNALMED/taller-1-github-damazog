@@ -1,0 +1,1 @@
+El paso número ocho (8) no se pudo completar ya que no se puede hacer commit a carpetas vacías.
